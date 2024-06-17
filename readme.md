@@ -4,5 +4,5 @@ Requirements
 2. Django Framework - pip install django
 
 Admin Panel 
-Username - admin
+Username - admin ||
 Password - admin@123
